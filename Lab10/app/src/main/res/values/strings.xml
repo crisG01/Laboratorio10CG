@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab10FireBase</string>
+    <string name="email">Email</string>
+    <string name="prefs_file">com.example.lab10firebase.PREFERENCE_FILE_KEY</string>
+    <string name="provider">Proveedor</string>
+    <string name="default_web_client_id">default_web_client_id</string>
+
+</resources>
